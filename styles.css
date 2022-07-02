@@ -62,3 +62,10 @@ span img {
   .content {
     padding-left:16px;
   }
+
+  .img-holder {
+    height: auto;
+    width: 200px;
+    margin-left: 45%;
+    
+  }
