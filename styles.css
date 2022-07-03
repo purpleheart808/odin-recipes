@@ -32,7 +32,7 @@ img {
     height: 400px;
     width: 400px;
 }
-span img {
+.main-img-holder img {
     height: auto;
     width: 200px;
     padding-right: 25px;
@@ -63,9 +63,4 @@ span img {
     padding-left:16px;
   }
 
-  .img-holder {
-    height: auto;
-    width: 200px;
-    margin-left: 45%;
-    
-  }
+  
