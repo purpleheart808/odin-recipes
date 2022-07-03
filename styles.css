@@ -24,7 +24,7 @@ img {
     
 }
 .content img{
-    height: auto;
+    height: 400px;
     width: 400px;
 }
 
@@ -33,16 +33,16 @@ img {
     width: 400px;
 }
 .main-img-holder img {
-    height: auto;
+    height: 200px;
     width: 200px;
     padding-right: 25px;
     
 }
 
-#eggicon {
+/*#eggicon {
     height: 200px;
-   /* padding-left: 60px; */
-}
+   /* padding-left: 60px; 
+}*/
 
 .topnav {
     overflow: hidden;
