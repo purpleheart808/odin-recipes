@@ -36,9 +36,14 @@ img {
     height: 200px;
     width: 200px;
     padding-right: 25px;
-    
+    flex: 1;
 }
 
+.thumbnail-container{
+    padding: 0 25%;
+display: flex;
+
+}
 /*#eggicon {
     height: 200px;
    /* padding-left: 60px; 
