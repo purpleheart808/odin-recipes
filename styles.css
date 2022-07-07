@@ -35,15 +35,22 @@ img {
 .main-img-holder img {
     height: 200px;
     width: 200px;
-    padding-right: 25px;
+    
+    padding-right: 25px; /* gives the circle its imperfect shape */
     flex: 1;
+    
 }
 
 .thumbnail-container{
-    padding: 0 25%;
+padding: 50px;    
 display: flex;
+align-items: center;
+justify-content: center;
+gap: 10px;
+flex-wrap: wrap;
 
 }
+
 /*#eggicon {
     height: 200px;
    /* padding-left: 60px; 
