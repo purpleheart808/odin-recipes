@@ -1,7 +1,10 @@
 body {
     font-family: monospace;
     background-color: rgb(178, 130, 223);
-    text-align: center;
+    text-align: center; 
+    
+    
+    
 }
 
 h1 {
@@ -41,15 +44,16 @@ img {
     
 }
 
-.thumbnail-container{
-padding: 50px;    
+.thumbnail-container{   
 display: flex;
 align-items: center;
-justify-content: center;
 gap: 10px;
 flex-wrap: wrap;
+justify-content: center;
+padding: 50px;
 
 }
+
 
 /*#eggicon {
     height: 200px;
